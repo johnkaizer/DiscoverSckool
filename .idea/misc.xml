@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/drawable/googlebutton_back.xml" value="0.1" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/drawable/pass.xml" value="0.1" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/drawable/searchbck.xml" value="0.1" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/drawable/signinbutton_back.xml" value="0.1" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/layout/activity_add_school.xml" value="0.33" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/layout/activity_categories.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/layout/activity_high.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/layout/activity_home.xml" value="0.18" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/layout/activity_international.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/layout/activity_item_details.xml" value="0.25" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/layout/activity_log_in.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/layout/activity_primary.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/layout/activity_sign_in.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/layout/activity_tvetsactivity.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/DiscoverSkool/app/src/main/res/layout/popular_school_row_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

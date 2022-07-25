@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088434105157",
+    "project_id": "auth-71d6f",
+    "storage_bucket": "auth-71d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088434105157:android:438872bd05db76ab92ac2c",
+        "android_client_info": {
+          "package_name": "com.project.discoverskool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088434105157-64bugafrckei6ro9gv31fivkpogveik7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.discoverskool",
+            "certificate_hash": "00fa3fff68c4f2906dd53cb7203305ce9aafb24e"
+          }
+        },
+        {
+          "client_id": "1088434105157-vi7op2euephecdbnvlfjouqtvnokfj3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCupVuIqLZsefEVwsqewFfjtX7O5PvxQsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088434105157-vi7op2euephecdbnvlfjouqtvnokfj3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
